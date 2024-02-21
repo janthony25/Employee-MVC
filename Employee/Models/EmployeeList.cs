@@ -2,7 +2,7 @@
 
 namespace Employee.Models
 {
-    public class Employee
+    public class EmployeeList
     {
         [Key]
         public int employeeId { get; set; }
